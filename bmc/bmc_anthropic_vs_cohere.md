@@ -174,10 +174,11 @@
 
 ## 📝 待補事項清單（分工建議）
 
-**YTLi 負責**
+**亭穎負責**
 - Anthropic 毛利率（估算 + 來源）
 - Anthropic 員工數（2026 最新）
 - Anthropic 2024–2025 收入結構 breakdown（API vs Code vs subscription）
+- 整理BMC成可視化圖表
 
 **元貞負責**
 - Cohere 百萬美元級客戶數
