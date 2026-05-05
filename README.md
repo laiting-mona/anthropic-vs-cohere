@@ -1,5 +1,5 @@
 # A Tale of Two LLM Startups: Anthropic vs. Cohere
-### Digital Economy Final Project — NTU / NTUST 2026
+### Digital Economy Final Project — NTU 2026
 
 > **Course:** Digital Economy (數位經濟)  
 > **Instructor:** Dr. Melody Pei-yu Lo  
